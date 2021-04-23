@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:DevQuiz/home/widgets/score_card/score_card_widget.dart';
 
 import '../../../core/app_text_styles.dart';

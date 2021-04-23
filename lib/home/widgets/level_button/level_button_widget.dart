@@ -46,7 +46,7 @@ class LevelButtonWidget extends StatelessWidget {
         color: color
       ),
       child: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 26, vertical: 6),
+        padding: EdgeInsets.symmetric(horizontal: 24, vertical: 6),
         child: Text(
           label,
           style:
